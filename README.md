@@ -1,6 +1,4 @@
 # 🌐 Standardized Website Project Template
-
-## 📄 Description
 This repository serves as a template for creating standardized web development projects. It includes a predefined project structure, configuration files, and deployment setup to ensure speed and consistency across projects.
 
 ## 🗂️ Project Structure
