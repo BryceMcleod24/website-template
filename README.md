@@ -4,7 +4,7 @@
 This repository serves as a template for creating standardized web development projects. It includes a predefined project structure, configuration files, and deployment setup to ensure speed and consistency across projects.
 
 ## 🗂️ Project Structure
-
+```
 ├── .github/              # GitHub Actions for auto-deploy
 │   ├── workflows/
 │       └── deploy.yml
@@ -18,6 +18,7 @@ This repository serves as a template for creating standardized web development p
 ├── LICENSE
 ├── netlify.toml          # Netlify deployment config  
 └── README.md             # Project setup guide  
+```
 
 ## ⚙️ Setup
 1. **Clone the repository:**
